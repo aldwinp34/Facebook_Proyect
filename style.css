@@ -1,0 +1,36 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+header,section,article,aside,footer,figure,figcaption,hgroup{
+	display: block
+}
+body{
+	background: #e9eaed;
+}
+#cabecera{
+	background: rgb(58, 87, 149);
+	height: 42px;
+	width: 100%;
+	border-bottom: 1px gray solid;
+}
+.letrascabeza{
+	color: #fff;
+	border-right: 1px #fff solid;
+	font-family: verdana,arial, sans-serif;
+	font-size: 12px;
+}
+#seccion{
+	height: 40px;
+	width: 500px;
+	background: #fff;
+	margin-left: 420px;
+	margin-top: 10px;
+	border-radius: 3px;
+	border: 1px #E5E6E9 solid;
+}
+#columna{
+	height: 30px;
+	width: 20%;
+	background: gray;
+}
